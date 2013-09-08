@@ -1,0 +1,6 @@
+.gradle/
+build/
+guava-demo.iml
+guava-demo.ipr
+guava-demo.iws
+out/
